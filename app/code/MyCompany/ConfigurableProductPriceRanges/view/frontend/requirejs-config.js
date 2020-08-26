@@ -6,7 +6,7 @@
 var config = {
   map: {
       '*': {
-          priceBox:               'Sm_ConfigurableProductPriceRanges/js/price-box',
+          priceBox:               'MyCompany_ConfigurableProductPriceRanges/js/price-box',
       }
   },
 };
